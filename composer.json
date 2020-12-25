@@ -1,0 +1,28 @@
+{
+    "name": "sqreen/nextcloud_sdk",
+    "description": "Integrate Sqreen login SDk",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Sélim Menouar"
+        }
+    ],
+
+    "config" : {
+        "optimize-autoloader": true,
+        "classmap-authoritative": true,
+        "autoloader-suffix": "SqreenSDK"
+    },
+    "require": {
+        "ext-sqreen": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload" : {
+        "psr-4": {
+            "OCA\\SqreenSDK\\": "./lib/"
+        }
+    }
+}

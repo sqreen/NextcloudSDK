@@ -30,6 +30,7 @@
 !bin/console
 !bin/symfony_requirements
 /vendor/
+autoload.php
 
 # Assets and user uploads
 /web/bundles/
@@ -38,6 +39,7 @@
 # PHPUnit
 /app/phpunit.xml
 /phpunit.xml
+/phpunit.*.xml
 
 # Build data
 /build/
