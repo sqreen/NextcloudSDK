@@ -15,6 +15,7 @@
     <bugs>https://github.com/sqreen/NextcloudSDK</bugs>
     <dependencies>
         <nextcloud min-version="19" max-version="21"/>
+         <lib>sqreen</lib>
     </dependencies>
     <settings>
         <admin>OCA\SqreenSDK\Settings\SqreenSettings</admin>
