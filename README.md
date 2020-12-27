@@ -1,6 +1,8 @@
 # Sqreen SDK
 Place this app in **nextcloud/apps/**
 
+![Sqreen screenshot](/appinfo/screenshot_security_activity.png)
+
 ## Building the app
 
 The app can be built by using the provided Makefile by running:
