@@ -13,7 +13,7 @@ The plugin will automatically track:
 
 ---
 
-Sqreen library is required to install this plugin. You can install it following this documentation: https://docs.sqreen.com/php/installation/
+Sqreen library is required to install this plugin. You can install it following this documentation: [https://docs.sqreen.com/php/installation/](https://docs.sqreen.com/php/installation/)
     </description>
     <version>0.0.1</version>
     <licence>agpl</licence>
@@ -21,7 +21,10 @@ Sqreen library is required to install this plugin. You can install it following 
     <namespace>SqreenSDK</namespace>
     <category>integration</category>
     <category>security</category>
+    <screenshot small-thumbnail="https://raw.githubusercontent.com/sqreen/NextcloudSDK/main/appinfo/screenshot_security_activity.png">https://raw.githubusercontent.com/sqreen/NextcloudSDK/main/appinfo/screenshot_security_activity.png</screenshot>
+    <screenshot>https://raw.githubusercontent.com/sqreen/NextcloudSDK/main/appinfo/screenshot_security_activity.png</screenshot>
     <bugs>https://github.com/sqreen/NextcloudSDK/issues</bugs>
+    <repository type="git">https://github.com/sqreen/NextcloudSDK</repository>
     <dependencies>
         <nextcloud min-version="19" max-version="21"/>
          <lib>sqreen</lib>

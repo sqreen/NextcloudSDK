@@ -1,5 +1,6 @@
 # Sqreen SDK
-Place this app in **nextcloud/apps/**
+
+Add support for the Sqreen SDK in Nextcloud.
 
 ![Sqreen screenshot](/appinfo/screenshot_security_activity.png)
 
